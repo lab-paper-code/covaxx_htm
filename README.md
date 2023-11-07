@@ -1,5 +1,5 @@
 # Dataset and Code
-[WSDM'24] A Hierarchical Topic Modeling Analysis of COVID-19 Vaccine Mentions on Korean Twitter Posts
+[PAKDD'24] A Hierarchical Topic Modeling Analysis of COVID-19 Vaccine Mentions on Korean Twitter Posts
 
 Our analysis is performed in the following steps:
 1. Collecting korean twitter mentioning covid-19 vaccine('Astrazeneca, Janssen, Novavax, Moderna, Pfizer)
