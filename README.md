@@ -11,6 +11,6 @@ Our analysis is performed in the following steps:
 3. HTM model comparison & selection
    - Models : CluHTM, BERTopic, hLDA  
    - Compute an HHI(Hierarchical Harmony Index) score
-   - Compute the average HHI score per model
+   - Compute the HHI score per model
 4. Analysis of discourse
    - Interpretation of a produced hierarchical topic model
