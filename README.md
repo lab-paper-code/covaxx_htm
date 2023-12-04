@@ -10,11 +10,7 @@ Our analysis is performed in the following steps:
    - Stopwords Building using API
 3. HTM model comparison & selection
    - Models : CluHTM, BERTopic, hLDA  
-   - 5 Iterations
-   - Sampling data at 0.1x
-   - Compute an HCSD(Hierarchical Complex of Similarity and Diversity) score
-   - Compute the average HCSD score per model
+   - Compute an HHI(Hierarchical Harmony Index) score
+   - Compute the average HHI score per model
 4. Analysis of discourse
-   - Generate the title of topics using the GPT-3 model
-   - Generate WordsCloud
    - Interpretation of a produced hierarchical topic model
