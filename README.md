@@ -10,7 +10,7 @@ Our analysis is performed in the following steps:
    - Stopwords Building using API
 3. HTM model comparison & selection
    - Models : CluHTM, BERTopic, hLDA  
-   - Compute an HHI(Hierarchical Harmony Index) score
+   - Compute the HHI(Hierarchical Harmony Index) score
    - Compute the HHI score per model
 4. Analysis of discourse
    - Interpretation of a produced hierarchical topic model
