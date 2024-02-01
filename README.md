@@ -1,5 +1,5 @@
 # Dataset and Code
-[EDBT'25] HHI: A Novel Metric for Hierarchical Topic Modeling Analysis Assessment
+[EDBT'25] HHI: A Novel Metric for Hierarchical Topic Model Assessment
 
 Our analysis is performed in the following steps:
 1. Collecting korean twitter mentioning covid-19 vaccine(Astrazeneca, Janssen, Novavax, Moderna, Pfizer)
