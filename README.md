@@ -1,5 +1,5 @@
 # Dataset and Code
-[PAKDD'24] Hierarchical Topic Modeling Analysis of COVID-19 Vaccine Tweets
+[EDBT'25] Hierarchical Topic Modeling Analysis of COVID-19 Vaccine Tweets
 
 Our analysis is performed in the following steps:
 1. Collecting korean twitter mentioning covid-19 vaccine(Astrazeneca, Janssen, Novavax, Moderna, Pfizer)
