@@ -10,7 +10,7 @@ Our analysis is performed in the following steps:
    - Stopwords Building using API
 3. HTM model comparison & selection
    - Models : BERTopic, CluHTM, hLDA, and HyHTM  
-   - Compute the HARIN(Hierarchical Harmony Index) score
+   - Compute the HARIN (**H**ier**A**rchical ha**R**mony **IN**dex) score
    - Compute the HARIN score per model
 4. Analysis of discourse
    - Interpretation of a produced hierarchical topic model
