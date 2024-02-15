@@ -3,8 +3,8 @@
 
 Our analysis is performed in the following steps:
 1. Collecting dataset
-    private: korean twitter mentioning covid-19 vaccine(Astrazeneca, Janssen, Novavax, Moderna, Pfizer)
-    public:
+    - private: korean twitter mentioning covid-19 vaccine(Astrazeneca, Janssen, Novavax, Moderna, Pfizer)
+    - public:
       1) 20newsgroups: https://scikit-learn.org/0.19/datasets/twenty_newsgroups.html
       2) bbc: http://mlg.ucd.ie/datasets/bbc.html
       3) web of science: https://data.mendeley.com/datasets/9rw3vkcfy4/6
