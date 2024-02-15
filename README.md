@@ -20,5 +20,5 @@ Our analysis is performed in the following steps:
    - Compute the HARIN (**H**ier**A**rchical ha**R**mony **IN**dex) score
    - Compute the HARIN score per model
      
-4.Comparing HARIN with Human Judgment 
+4. Comparing HARIN with Human Judgment 
    - Conduct surveys to derive human scores(questionaire.zip)
