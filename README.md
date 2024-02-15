@@ -17,5 +17,5 @@ Our analysis is performed in the following steps:
    - Models : BERTopic, CluHTM, hLDA, and HyHTM  
    - Compute the HARIN (**H**ier**A**rchical ha**R**mony **IN**dex) score
    - Compute the HARIN score per model
-5. Analysis of discourse
-   - Interpretation of a produced hierarchical topic model
+5.Comparing HARIN with Human Judgment 
+   - Conduct surveys to derive human scores(questionaire.zip)
